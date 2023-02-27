@@ -1,0 +1,19 @@
+https://github.com/JasonYao/NLP-twitter-stock-trader
+
+/// This link is to a project file I looked at that uses Twitter Api which is pretty cool /// 
+
+
+https://github.com/kylejohnson363/Predicting-Stock-Movement-with-NLP-and-Twitter
+
+/// Another project as well which seems good /// 
+
+
+
+https://www.google.com/search?q=stock+trading+AI+NLP+projects+using+twitter+api+github&biw=1440&bih=789&sxsrf=AJOqlzUcRAbAJHOA2kLIgWb8YSLEigFhvg:1677522673224&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiu4aj4qrb9AhU3kIkEHanaDz0Q_AUoAXoECAEQAw#fpstate=ive&vld=cid:f10b6fad,vid:fQLa40L_BWA
+
+/// A video that might help to understand more about the project ///
+
+https://www.google.com/search?q=stock+trading+AI+NLP+projects+using+twitter+api+github&biw=1440&bih=789&sxsrf=AJOqlzUcRAbAJHOA2kLIgWb8YSLEigFhvg:1677522673224&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiu4aj4qrb9AhU3kIkEHanaDz0Q_AUoAXoECAEQAw#fpstate=ive&vld=cid:142c20e2,vid:pgZcP852dMg
+
+/// Similar to the other video as well using Python /// 
+
