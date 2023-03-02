@@ -17,3 +17,6 @@ https://www.google.com/search?q=stock+trading+AI+NLP+projects+using+twitter+api+
 
 /// Similar to the other video as well using Python /// 
 
+https://medium.com/codepubcast/ml-bloomberg-and-python-c82332157468
+
+// As Ryan talked about using Bloomberg data, this medium blog contains info about it //
